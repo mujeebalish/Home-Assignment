@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#marquee-box{
+    margin-top: 10px;
+}
+#alishwdev-logo{
+width: 250px;
+}
+#h1-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Assignment-h1{
+    color: gold;
+}
